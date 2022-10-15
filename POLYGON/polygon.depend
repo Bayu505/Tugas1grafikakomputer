@@ -217,3 +217,6 @@
 	<stddef.h>
 	<GL/gl.h>
 
+1664264274 source:c:\users\asus\documents\bayu\tugas1 grafika komputer\polygon\main.cpp
+	<GL/glut.h>
+
